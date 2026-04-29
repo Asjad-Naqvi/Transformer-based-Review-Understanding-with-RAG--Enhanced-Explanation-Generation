@@ -1,0 +1,2 @@
+# Transformer-based-Review-Understanding-with-RAG--Enhanced-Explanation-Generation
+build a three-stage NLP system that first extracts structured information from text, retrieves relevant examples from the dataset, and then generates grounded natural language explanations. The three stages — encoding, retrieval, and generation — are implemented in Parts A, B, and C respectively, and must work together as a coherent pipeline.
